@@ -10,6 +10,7 @@ public class Greeting {
 		String name = scanner.next () ;
 		
 		System.out.println("HI " + name +" ! ");
+		System.out.println("HI " + name +" ! ");
 		}
 	
 	}
